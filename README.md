@@ -99,3 +99,23 @@ Referral/
     ├── package.json
     ├── package-lock.json
     └── vite.config.js
+
+    1. User signs up
+        ↓
+2. Backend creates referral code
+        ↓
+3. Referral link is created
+        ↓
+4. User shares the link
+        ↓
+5. New person opens the link
+        ↓
+6. New person signs up
+        ↓
+7. Backend finds the referrer
+        ↓
+8. Save "referredBy"
+        ↓
+9. Referrer gets +10 points
+        ↓
+10. Dashboard shows referrals + points
