@@ -119,3 +119,7 @@ Referral/
 9. Referrer gets +10 points
         ↓
 10. Dashboard shows referrals + points
+
+
+how to run 
+first open folder re
